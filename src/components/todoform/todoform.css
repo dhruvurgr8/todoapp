@@ -1,0 +1,39 @@
+.todo-container {
+  width: 400px;
+  height: 230px;
+  border: 2px solid #e7e7e7;
+  margin: auto auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+h1 {
+  text-align: center;
+}
+.task-heading {
+  border-bottom: 2px solid #e7e7e7;
+}
+.input-group {
+  text-align: center;
+  margin-top: 20px;
+}
+.input-group input {
+  padding: 10px 5px;
+  width: 90%;
+  border: 2px solid #e7e7e7;
+  border-radius: 5px;
+  font-weight: 20px;
+  font-weight: bold;
+}
+.btn {
+  text-align: center;
+  margin-top: 10px;
+}
+.btn button {
+  border: none;
+  background-color: black;
+  padding: 10px 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
